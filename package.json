@@ -1,0 +1,11 @@
+{
+  "name": "class-cli",
+  "version": "0.0.0",
+  "description": "Class-based CLI",
+  "main": "lib/index.js",
+  "repository": "laggingreflex/class-cli",
+  "dependencies": {
+    "configucius": "^5.1.0",
+    "yargs": "^15.0.2"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "class-cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Class-based CLI",
   "main": "lib/index.js",
   "repository": "laggingreflex/class-cli",
